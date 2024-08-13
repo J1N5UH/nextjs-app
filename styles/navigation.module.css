@@ -1,0 +1,9 @@
+.nav {
+  background-color: darkgray;
+  padding: 50px 100px;
+  display: flex;
+}
+
+.nav ul li a {
+  display: flex;
+}
