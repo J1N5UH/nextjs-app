@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { API_URL } from ".";
+import { API_URL } from "./contants";
 import styles from "../../styles/home.module.css";
 import Movie from "@/components/movie";
 

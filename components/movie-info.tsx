@@ -1,5 +1,5 @@
 import potato from "../styles/movie-info.module.css";
-import { API_URL } from "@/app/(home)";
+import { API_URL } from "@/app/(home)/contants";
 
 export async function getMovie(id: string) {
   console.log(`Fetching movies: ${Date.now()}`);
